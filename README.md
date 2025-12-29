@@ -1,9 +1,9 @@
 # 💫 About Me:
-<b>Identity:</b> Networking & Cybersecurity Student focused on infrastructure and secure configurations.<br>
-<b>Specialization:</b> Expertise in <b>system hardening</b>, <b>threat detection</b>, and <b>log analysis</b>.<br>
-<b>Tech Stack:</b> Proficient in <b>Linux</b>, <b>Wireshark</b>, <b>Nmap</b>, and <b>Blender</b>.<br>
-<b>Hobbies:</b> Creative background in <b>3D modeling</b> and <b>musical performance</b>.<br>
-<b>Career Goal:</b> Targeting roles in <b>SOC Operations</b>, <b>Network Security</b>, and <b>Infrastructure Defense</b>.
+Networking & Cybersecurity Student focused on infrastructure and secure configurations.<br>
+Expertise in <b>system hardening</b>, <b>threat detection</b>, and <b>log analysis</b> via Labs and CTFs.<br>
+Proficient in <b>Linux</b>, <b>Wireshark</b>, <b>Nmap</b>, and <b>3D Design (Blender)</b>.<br>
+Creative background in <b>Blender modeling</b> and <b>musical performance</b>.<br>
+Targeting roles in <b>SOC Operations</b>, <b>Network Security</b>, and <b>Infrastructure Defense</b>.
 
 
 ## 🌐 Socials:
