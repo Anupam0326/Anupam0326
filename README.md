@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a Computer Systems Networking student passionate about mastering network infrastructure and cybersecurity fundamentals.<br>My technical focus lies in understanding secure configurations, analyzing system behavior, and performing system hardening under real-world conditions.<br>I actively explore concepts such as threat detection and log analysis through hands-on labs, Capture The Flag (CTF) challenges, and independent research.<br>Currently, I am building technical proficiency with industry-standard tools including Wireshark, Nmap, and Linux to detect and mitigate network threats.<br>My objective is to apply these skills in professional roles related to network security, SOC operations, or IT infrastructure defense.
+<b>Identity:</b> Networking & Cybersecurity Student focused on infrastructure and secure configurations.<br>
+<b>Specialization:</b> Expertise in <b>system hardening</b>, <b>threat detection</b>, and <b>log analysis</b>.<br>
+<b>Tech Stack:</b> Proficient in <b>Linux</b>, <b>Wireshark</b>, <b>Nmap</b>, and <b>Blender</b>.<br>
+<b>Hobbies:</b> Creative background in <b>3D modeling</b> and <b>musical performance</b>.<br>
+<b>Career Goal:</b> Targeting roles in <b>SOC Operations</b>, <b>Network Security</b>, and <b>Infrastructure Defense</b>.
 
 
 ## 🌐 Socials:
