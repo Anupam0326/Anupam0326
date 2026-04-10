@@ -21,12 +21,21 @@ Targeting roles in **SOC Operations**, **Network Security**, **Penetration Testi
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
 ![Nmap](https://img.shields.io/badge/nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-E54927?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-005E7D?style=for-the-badge)
+![Snort](https://img.shields.io/badge/Snort-FF9900?style=for-the-badge)
+![John the Ripper](https://img.shields.io/badge/John%20The%20Ripper-CC0000?style=for-the-badge)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-4CB140?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## 💻 Programming & Web Development:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -54,10 +63,9 @@ Targeting roles in **SOC Operations**, **Network Security**, **Penetration Testi
 
 ## 🏆 CTF & Security Activity:
 - 🚩 **Hack The Box** — Active CTF competitor | Blue Team challenges | HTB CTF #20
-- 🚩 **CIT-CTF #29** — Team participant
-- 🧠 **450+ LeetCode** problems solved
+- 🧠 **550+ LeetCode** problems solved
 - 🎯 Practicing: Log analysis, packet forensics, threat hunting, MITRE ATT&CK mapping
-- 🏅 Certifications: Junior Cybersecurity Analyst · Cisco Networking Basics · C++ Essentials · Google Digital Marketing · Lumenore · GDG
+- 🏅 Certifications: Junior Cybersecurity Analyst · Cisco Networking Basics · C++ Essentials · Lumenore · GDG
 
 ---
 
@@ -75,5 +83,3 @@ Beyond tech, I enjoy **3D modeling in Blender**, **musical performance**, and ex
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Anupam0326&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly crafted for cybersecurity focus -->
